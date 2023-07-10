@@ -1,13 +1,9 @@
 <h1 align="center">Hello there! 👋, My name is Johan Mejia</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🧑 Who am I? I am a person passionate about technology and always motivated to face new challenges. This is what leads me to this vast world of web development.
-
-- ⭐ My specialty: Adaptation and learning! These are the two strong points that always accompany me in any work environment. I adapt to new tasks and people, and I learn the necessary tools for day-to-day work.
-
-- 🤝 What am I looking for? I am looking for a new challenge! To learn and grow professionally in a new environment, meet new people, make new friendships, and prove to myself that I am capable of anything!
-
-- 💪 The best of me? I am completely responsible in everything I do, motivated and passionate about doing what I love, always seeking that personal satisfaction of solving a problem and self-improvement.
+<p align="center">Motivated and self-taught Full Stack Web Developer with front-end (HTML, CSS, JavaScript, TypeScript, React, Redux Toolkit) and back-end (Node.js, Express.js, PostgreSQL, MongoDB, Sequelize ORM) skills. Familiar with SCRUM, GIT and GitHub. No work experience but quick learning ability and adaptability.
+Focused on solving problems and creating quality applications. I have developed challenging and satisfying personal projects. Outstanding interpersonal skills and ability to work in a team. Communicative, organized and results oriented. English level B2.
+Interested in joining a dynamic team to continue expanding knowledge and contributing to the development of innovative and high-quality solutions.</p>
 
 <h3 align="left">📫 How to reach me:</h3>
 
